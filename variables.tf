@@ -25,4 +25,10 @@ variable az2 {
 variable provider_region {
   type = string
 }
+variable public3_count {
+  type        = string
+}
+variable public3_subnet_cidr {
+  type        = string
+}
 

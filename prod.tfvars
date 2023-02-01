@@ -7,3 +7,5 @@ private2_subnet_cidr ="10.0.4.0/24"
 az1 = "us-east-1a"
 az2 = "us-east-1b"
 provider_region = "us-east-1"
+public3_count = 0
+public3_subnet_cidr = "10.0.10.0/24" //Even if you will not use it here man
